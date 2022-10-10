@@ -24,7 +24,7 @@ await fetch(
 ).then((res) => res.json())
 ```
 
-[View Result](https://mcus.deno.dev/json?params)
+[View Result](https://mcus.deno.dev/json?image=https://github.com/importantimport/urara/raw/main/urara/hello-world/urara.webp&custom-colors=4278215579,4288072703)
 
 ## Params
 
